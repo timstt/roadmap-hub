@@ -23,21 +23,6 @@ Roadmap Hub is also a learning project: it is built stage by stage to practice t
 | Testing | Vitest, supertest |
 | DevOps | Docker, GitHub Actions |
 
-## Development stages
-
-- [x] 0. Setup: Node.js, Git, repository
-- [ ] 1. JS/TS basics and the first server
-- [ ] 2. Own REST API
-- [ ] 3. PostgreSQL
-- [ ] 4. Authentication
-- [ ] 5. Transactions, ACID and SQL performance
-- [ ] 6. Testing
-- [ ] 7. External APIs
-- [ ] 8. React interface
-- [ ] 9. NoSQL, BASE, caching and security
-- [ ] 10. Background jobs, file uploads, webhooks and search
-- [ ] 11. Production: Docker, CI, deployment
-
 ## Planned repository structure
 
 ```
